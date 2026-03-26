@@ -34,8 +34,9 @@ codebase-auditor/
 ├── SOUL.md
 ├── RULES.md
 ├── README.md
-├── icon.png
-├── banner.png
+├── assets/
+│   ├── icon.png
+│   └── banner.png
 └── knowledge/
     ├── audit-dimensions.md
     ├── severity-classification.md
